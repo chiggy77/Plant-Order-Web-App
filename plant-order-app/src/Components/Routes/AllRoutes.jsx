@@ -1,13 +1,12 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 import Cart from "../Cart";
-import Catalogue from "../catalogue";
+//import Catalogue from "../catalogue";
 import ChangePassword from "../ChangePassword";
 import { Details } from "../Details";
-import Home from "../Homepage";
-
-import LoginPage from "../Login";
-import SignUp from "../SignUp";
+//import Home from "../Homepage";
+//import LoginPage from "../Login";
+//import SignUp from "../SignUp";
 
 export default function AllRoutes() {
   return (

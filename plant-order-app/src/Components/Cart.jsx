@@ -11,8 +11,8 @@ import DeliveryDetailsForm from './Delivery';
 import PaymentForm from './Payment';
 import OTPPage from './Otp';
 import Success from './Success';
-import Footer from './Footer';
-import Navbar from './Navbar';
+//import Footer from './Footer';
+//import Navbar from './Navbar';
 
 function Cart() {
                 let dispatch=useDispatch()
