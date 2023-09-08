@@ -9,7 +9,7 @@ Chirag Arora - Product and product details page and also deployment part
 ## Tech Stack
 - HTML
 - CSS
-- Javascript - (DOM Manipulation, Local Storage)
+- Javascript 
 - React
 - Redux
 - Bootstrap
